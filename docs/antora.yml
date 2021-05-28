@@ -1,5 +1,5 @@
 name: quarkus-cxf
 title: Quarkus CXF
-version: dev
+version: 0.8
 nav:
   - modules/ROOT/nav.adoc
